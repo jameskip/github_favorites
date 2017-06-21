@@ -1,4 +1,4 @@
-# Concierge Auctions Code Challenge
+# Code Challenge
 
 ## Introduction
 
